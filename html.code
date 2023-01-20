@@ -1,0 +1,31 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 40px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100px;
+  margin: 100px 100px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #008CBA;} /*Blue*/
+.button2 {background-color: #89887a;} /*Grey*/
+.button3 {background-color: #A52A2A;} /*Brown*/
+</style>
+</head>
+<body>
+
+<h1>This is a responsive HTML template<h1>
+
+<button class="button1">Send Email</button>
+<button class="button2">Archive </button>
+<button class="button3">Download news</button>
+
+</body>
+</html>
